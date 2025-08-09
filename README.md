@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @orelenny
-- 👀 I’m interested in product, web development and strategy
+- 👀 I’m interested in product, software engineering and strategy
 - 🌱 I’m currently implementing LM & AI ideas
 - 💞️ I’m looking to collaborate on projects and startups
 - 📫 To reach me, shoot a mail to leonard@tuesdey.co
